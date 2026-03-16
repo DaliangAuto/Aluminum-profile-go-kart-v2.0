@@ -34,3 +34,11 @@ This project and all materials in this repository are **for learning and exchang
 - Frame drawings and mechanical specifications
 - Mechanical system part list
 - Electronics & compute part list
+
+## Hardware & Software Notes
+
+- **Remote control**: Hardware can be extended for remote control.
+- **Steering servo**: Compatible with 57 or 60 flange servo motors; **57 is recommended**. Motor shaft diameter preferably ≤12mm.
+- **Brake**: Can be equipped with a foot pedal and an auto-compatible brake box, supporting both pedal brake and electric cylinder–driven brake.
+- **Software**: For AI vision–based autonomous driving, data collection, model training, and deployment, see  
+  **[vision-follow-car](https://github.com/DaliangAuto/vision-follow-car)**.
